@@ -78,3 +78,4 @@ title: Содержание
 - [[Kafka]]
 ## Devops
 - [[Что такое Devops?]]
+- [[Continuous Integration and Continuous Deployment(Delivery)]]

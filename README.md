@@ -1,5 +1,7 @@
-# JavaNotes
+# JavaNotes + Sayan's notes
 **Хватит читать чужие гайды по программированию на Java - напиши свой!**
+ 
+Это мой репозиторий за основу которого я взял https://github.com/Maslovsky-dev/JavaNotes.git Спасибо ему большое!
 
 Хочешь научиться программировать или улучшить свои навыки? Тогда не ограничивайся только чтением готовых руководств и книг. Самый лучший способ усвоить знания - это практика и рефлексия. Поэтому я предлагаю тебе создать свою собственную базу знаний по программированию, используя мой проект в качестве основы.
 
@@ -92,7 +94,9 @@
 
 - [Docker](notes/Docker.md)
 - [Kafka](notes/Kafka.md)
-
+## Devops
+- [[Что такое Devops?]]
+- [[Continuous Integration and Continuous Deployment(Delivery)]]
 ## Вдохновение 
  - [Nicole van der Hoeven](https://nicolevanderhoeven.com/)  [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
 	 
