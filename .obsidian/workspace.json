@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "acf2b227f80ba5e5",
+        "id": "4389315807bf9aad",
         "type": "tabs",
         "children": [
           {
-            "id": "675e48bd427a58e5",
+            "id": "7dc82ea61a001b91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кэширование в Spring с использованием Redis.md",
+                "file": "JavaNotes/notes/Паттерн спецификации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кэширование в Spring с использованием Redis"
+              "title": "Паттерн спецификации"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "174a5faf70854a67",
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кэширование в Spring с использованием Redis.md"
+                "file": "JavaNotes/notes/Паттерн спецификации.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Кэширование в Spring с использованием Redis"
+              "title": "Структура Паттерн спецификации"
             }
           },
           {
@@ -171,53 +171,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "675e48bd427a58e5",
+  "active": "7dc82ea61a001b91",
   "lastOpenFiles": [
-    "Unsorted Guides/Фильтрация и Сортировка Пользователей в Spring  Принципы SOLID и Шаблоны Проектирования.md",
-    "JavaNotes/notes/Принципы SOLID.md",
-    "Unsorted Guides/Гайд о том как я устоновил .env и имплементировал Continuous Deployment(Delivery).md",
     "Кэширование в Spring с использованием Redis.md",
-    "JavaNotes/notes/Что такое Devops?.md",
+    "JavaNotes/notes/Specification с применением фильтров.md",
+    "JavaNotes/notes/Паттерн спецификации.md",
+    "PROJECT CISCO TODO.md",
+    "Без названия.md",
+    "README 1.md",
+    "Files/Pasted image 20241118214332.png",
     "README.md",
+    "JavaNotes/notes/Абстрактная фабрика Abstract Factory.md",
+    "JavaNotes/attachments/1НФ нормальная форма.png",
+    "Templates/Aliases template.md",
+    "Unsorted Guides/Гайд о том как я устоновил .env и имплементировал Continuous Deployment(Delivery).md",
+    "Templates/Tags template.md",
+    "JavaNotes/notes/Адаптер Adapter.md",
+    "CISCO/Жоба документациясы.md",
+    "Files/Pasted image 20241107090937.png",
+    "Files/Pasted image 20241107090914.png",
+    "Files/Pasted image 20241107090644.png",
+    "Files/Pasted image 20241107090142.png",
+    "Files/Pasted image 20241107085806.png",
+    "Files/Pasted image 20241107085746.png",
+    "Files/Pasted image 20241107085641.png",
+    "Files/Pasted image 20241107085459.png",
+    "Unsorted Guides/Фильтрация и Сортировка Пользователей в Spring  Принципы SOLID и Шаблоны Проектирования.md",
+    "CISCO",
+    "Unsorted Guides/List of processes in macOS.md",
+    "Unsorted Guides/loadByUsername.md",
+    "JavaNotes/notes/Принципы SOLID.md",
+    "JavaNotes/notes/Что такое Devops?.md",
     "JavaNotes/notes/Continuous Integration and Continuous Deployment(Delivery).md",
     "JavaNotes/index.md",
-    "JavaNotes/attachments/Абстрактная фабрика.png",
-    "JavaNotes/attachments/1НФ нормальная форма.png",
     "Unsorted Guides/Redis.md",
     "Unsorted Guides/README.md",
     "Unsorted Guides/N + 1.md",
     "Unsorted Guides/minio.md",
-    "Unsorted Guides/loadByUsername.md",
-    "Unsorted Guides/List of processes in macOS.md",
     "Unsorted Guides/JOIN FETCH.md",
     "JavaNotes/notes/Артефакт.md",
-    "JavaNotes/notes/Kafka.md",
-    "JavaNotes/notes/Проблема декартова произведения Cartesian product problem в Hibernate.md",
-    "JavaNotes/notes/Проблема N plus 1 Select Hibernate.md",
-    "JavaNotes/notes/SQL оценка производительности.md",
-    "Files/Pasted image 20241029123120.png",
-    "Templates/Tags template.md",
-    "Templates/Aliases template.md",
-    "JavaNotes/notes/WebDAV.md",
     "Unsorted Guides",
-    "Unsorted Guides/ACID.md",
-    "create a link.md",
-    "Unsorted Guides/Команды включения Redis на Linux.md",
-    "Files/Pasted image 20241028211107.png",
     "Files",
-    "Files/Pasted image 20241028214612.png",
-    "Files/Pasted image 20241028214518.png",
-    "Files/Pasted image 20241028213740.png",
-    "Files/Pasted image 20241028213619.png",
-    "Files/Pasted image 20241028211354.png",
-    "Files/Pasted image 20241028211311.png",
     "git_keys.pub",
     "git_keys",
     "JavaNotes/notes",
     "Templates",
     "JavaNotes/attachments",
     "JavaNotes/LICENSE",
-    "JavaNotes",
-    "~$lab6.docx"
+    "JavaNotes"
   ]
 }
